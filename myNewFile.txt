@@ -1,0 +1,1 @@
+Hello NodeJS FS!Node Core Modules are the best!
